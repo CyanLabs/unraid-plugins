@@ -11,5 +11,5 @@ A plugin that reads the statistics from Corsair PSU's with a USB port and displa
 </Description>
 <Support>https://forums.unraid.net/topic/70429-plugin-corsair-psu-statistics/</Support>
 <Icon>https://raw.githubusercontent.com/Cyanlabs/unraid-plugins/master/corsairpsu.png</Icon>
-<IconFA>ups</IconFA>
+<IconFA>icon-ups</IconFA>
 </Containers>
