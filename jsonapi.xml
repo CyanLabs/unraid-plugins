@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<PluginURL>https://raw.githubusercontent.com/Cyanlabs/jsonapi-unraid/master/jsonapi.plg</PluginURL>
+<PluginAuthor>Fma965</PluginAuthor>
+<Beta>False</Beta>
+<Category>Other:</Category>
+<Name>jsonapi-unraid</Name>
+<Project>https://cyanlabs.net/applications/jsonapi-unraid/</Project>
+<Description>
+This plugin is a wrapper for reading the files used by emhttpd for displaying various statistics, the files are read from /var/local/emhttp/*.ini and are converted to JSON for easy access by services/applications like Home Assistant
+This plugin is for reading config files for use externally, such as HomeAssistant
+</Description>
+<Support>https://forums.unraid.net/topic/86646-plugin-unraid-json-api/</Support>
+<Icon>https://raw.githubusercontent.com/Cyanlabs/unraid-plugins/master/jsonapi.png</Icon>
+<IconFA>refresh</IconFA>
+</Containers>
