@@ -11,5 +11,4 @@ This plugin is a wrapper for reading the files used by emhttpd for displaying va
 </Description>
 <Support>https://forums.unraid.net/topic/86646-plugin-unraid-json-api/</Support>
 <Icon>https://raw.githubusercontent.com/Cyanlabs/unraid-plugins/master/jsonapi.png</Icon>
-<IconFA>refresh</IconFA>
 </Containers>
