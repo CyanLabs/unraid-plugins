@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <PluginURL>https://raw.githubusercontent.com/Fma965/corsairpsu-unraid/master/corsairpsu.plg</PluginURL>
-<PluginAuthor>Fma965</PluginAuthor>
+<PluginAuthor>Cyanlabs</PluginAuthor>
 <Beta>False</Beta>
 <Category>Other:</Category>
 <Name>Corsair PSU Statistics</Name>
