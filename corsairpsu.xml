@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
-<PluginURL>https://raw.githubusercontent.com/Fma965/corsairpsu-unraid/master/corsairpsu.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/Cyanlabs/corsairpsu-unraid/master/corsairpsu.plg</PluginURL>
 <PluginAuthor>Fma965</PluginAuthor>
 <Beta>False</Beta>
 <Category>Other:</Category>
